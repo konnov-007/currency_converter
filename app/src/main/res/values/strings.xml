@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="check">check</string>
+    <string name="input">input</string>
+    <string name="network_error">Network error</string>
+    <string name="rate">Rate</string>
+    <string name="clear">Clear</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>RUB</item>
+    </string-array>
+</resources>

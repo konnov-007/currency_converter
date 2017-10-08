@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ilya/trashfolder/Currencyconverter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ilya/trashfolder/Currencyconverter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb2f9cd551ea9a75b063160709f162f90971c0d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ilya/trashfolder/Currencyconverter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92aa8fe66a7bbd5530ee6bbfabba8325b2b48ef4">
+        <dex dex="/Users/ilya/trashfolder/Currencyconverter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_964864031961ecf23a7260e05275335599cedcc2/classes.dex" />
+    </item>
+
+</items>
